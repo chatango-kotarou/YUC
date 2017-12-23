@@ -21,7 +21,7 @@ Magic cards: Magic cards can be played during your turn the effect varies per ca
 
 
 
-bash'''
+'''bash
 Directories explained
 pics/ # card images
 scripts/ # card scripts
