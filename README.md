@@ -21,11 +21,13 @@ Magic cards: Magic cards can be played during your turn the effect varies per ca
 
 
 
-'''bash
-Directories explained
-pics/ # card images
-scripts/ # card scripts
-textures/ # board and other images
-sounds/ # game sounds
 
-'''
+Directories explained
+
+pics/ # card images
+
+scripts/ # card scripts
+
+textures/ # board and other images
+
+sounds/ # game sounds
